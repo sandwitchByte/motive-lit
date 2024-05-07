@@ -2,38 +2,49 @@
 
 ## apa
 ## cartea/lectura
-## copilărie/copilul
+## copilărie/copilul/jocul
 *(Copiii)"Râd şi sar într-un picior,*
 
 *Se-nvârtesc şi ţipă-ntruna*
 
-*Mai cu zor."*	"Iarna pe uliță" de G. Coșbuc
+*Mai cu zor."*	
+<div align="right"> "Iarna pe uliță" de G. Coșbuc </div>
+
 ## creație
 ## drumul
 ## dorul
 *"Cel mai adânc din doruri/ E dorul-dor"* ; 
-*"Nesfârșit e dorul-dor"*	"Dorul-dor" de L. Blaga
+*"Nesfârșit e dorul-dor"*	
+<div align="right"> "Dorul-dor" de L. Blaga </div>
 
 ---
 
-*"Și totuși tu-mi șoptești: Mi-e-așa de dor de tine!"*	"Dorul" de L. Blaga
+*"Și totuși tu-mi șoptești: Mi-e-așa de dor de tine!"*	
+<div align="right"> "Dorul" de L. Blaga </div>
 
 
 ----
 
 *"Mi-e dor de-a ta privire,*
 
-*Mi-e dor de tine, mamă."*	"Mi-e dor de tine, mamă." de G. Vieru
+*Mi-e dor de tine, mamă."*	
+<div align="right"> "Mi-e dor de tine, mamă." de G. Vieru </div>
 
 
 ## efemeritate
+*"Lumea toată-i trecătoare/*
+*Oamenii se trec și mor"* 
+<div align="right"> "Numai poetul" de M. Eminescu </div>
+  
 ## eternitate
 ## evoluție/devenire/transcendență
 *"În cer s-ajunge dintr-un salt/*
 
-*Sau nu s-ajunge în veci de veci."* "Rondelul ajungerii la cer" de A. Macedonski 
+*Sau nu s-ajunge în veci de veci."* 
+<div align="right"> "Rondelul ajungerii la cer" de A. Macedonski  </div>
+  
 ## femeia
-## iubire
+## iubirea
 ## legătura om-natură
 ## libertatea
 ## limba
@@ -43,14 +54,16 @@
 ## moartea
 ## natura
 ## patria
-## sacrificiu
+## sacrificiul
 ## satul
-## singurătate
-## stea
-## suferință
+## singurătatea
+## steaua
+## suferința
 *"E vremea rozelor ce mor,
-Mor în grădini, şi mor şi-n mine."*	"Rondelul rozelor ce mor" de A. Macedonski
+Mor în grădini, şi mor şi-n mine."*	
+<div align="right"> "Rondelul rozelor ce mor" de A. Macedonski </div>
+
 ## testament/ legătura între generații
-## trecerea timpului
+## trecerea timpului/"carpe diem"
 ## trecutul/amintirile
 ## zborul 
