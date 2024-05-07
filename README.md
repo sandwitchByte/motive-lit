@@ -1,6 +1,15 @@
 # Colecție de motive literare frecvent întâlnite în literatura română (pentru examenul de BAC și nu numai)
 
 ## apa
+*"Apele plâng, clar izvorând în fântâne"*
+<div align="right"> "Sara pe deal" de M. Eminescu </div>
+
+---
+
+*"Hai în codrul cu verdeață,*
+*Und-izvoare plâng în vale"*
+<div align="right"> "Floare albastră" de M. Eminescu </div>
+
 ## cartea/lectura
 ## copilărie/copilul/jocul
 *(Copiii)"Râd şi sar într-un picior,*
@@ -32,13 +41,14 @@
 
 
 ## efemeritate
-*"Lumea toată-i trecătoare/*
+*"Lumea toată-i trecătoare*
+
 *Oamenii se trec și mor"* 
 <div align="right"> "Numai poetul" de M. Eminescu </div>
   
 ## eternitate
 ## evoluție/devenire/transcendență
-*"În cer s-ajunge dintr-un salt/*
+*"În cer s-ajunge dintr-un salt*
 
 *Sau nu s-ajunge în veci de veci."* 
 <div align="right"> "Rondelul ajungerii la cer" de A. Macedonski  </div>
@@ -60,6 +70,7 @@
 ## steaua
 ## suferința
 *"E vremea rozelor ce mor,
+
 Mor în grădini, şi mor şi-n mine."*	
 <div align="right"> "Rondelul rozelor ce mor" de A. Macedonski </div>
 
